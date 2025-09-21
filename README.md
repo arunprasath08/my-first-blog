@@ -84,7 +84,6 @@ python manage.py migrate
 👉 Visit http://127.0.0.1:8000/ in your browser.
 
 ---
-
 ```bash
 
 # Start development server
@@ -99,7 +98,6 @@ python manage.py runserver
 python manage.py createsuperuser
 
 ```
-
 ---
 
 🌟 Key Takeaways
