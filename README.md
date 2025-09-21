@@ -5,11 +5,17 @@ A personal blog built with Django and PythonAnywhere hosting to share insights, 
 This project is both a learning journey (sharpening my web development skills) and a knowledge-sharing platform for the data community.
 
 🚀 Features
+
 🌐 Custom Blog Website built using Django (Python framework)
+
 🖌️ Responsive Frontend styled with HTML + CSS (static files managed properly in Django)
+
 ✍️ Admin Panel to create and manage posts dynamically
+
 🗂️ Organized posts around Data Engineering, ETL/ELT, Azure Cloud, AI & Analytics
+
 ☁️ Deployed on PythonAnywhere, with Git-based version control
+
 🔄 Continuous improvements — from backend queries to frontend styling
 
 🛠️ Tech Stack
@@ -24,25 +30,45 @@ Version Control: Git + GitHub
 This project started as a small experiment but turned into a full-fledged blog platform. Along the way, I learned:
 
 Django Basics
+
 Setting up projects and apps (startproject, startapp)
+
 Models, views, templates (MVT architecture)
+
 Admin panel customization
+
 Frontend Integration
+
 Linking static files correctly in Django
+
 Using blog.css to manage blog styling
+
 Debugging CSS caching issues both locally and in production
+
 Dynamic Content
+
 Querying posts in views.py (Post.objects.all())
+
 Rendering content in templates with {% for post in posts %}
+
 Handling published vs draft posts
+
 Deployment
+
 Hosting the app on PythonAnywhere
+
 Mapping static files in the Web tab
+
 Running collectstatic for production readiness
+
 Fixing caching and refresh issues for updated CSS
+
 Version Control & Collaboration
+
 Using GitHub for versioning
+
 Syncing changes between local and hosted versions
+
 Structuring commits for clarity (bug fixes, features, styling updates)
 
 ⚡ Setup Instructions
