@@ -80,3 +80,31 @@ python manage.py migrate
 
 # Start development server
 python manage.py runserver
+
+---
+
+## ⚡ Create an admin user (to add posts):
+
+python manage.py createsuperuser
+
+🌟 Key Takeaways
+
+Built a full-stack blog platform using Django from scratch
+
+Solved real-world issues (CSS not loading, static file mapping, deployment caching)
+
+Learned how to host, maintain, and scale a Python web app
+
+Created a platform to share Data Engineering knowledge with the community
+
+👉 Visit My Blog
+
+🌐 https://arunprasath08.pythonanywhere.com/
+
+🤝 Contributions
+
+This is a personal learning project, but feedback and suggestions are always welcome!
+
+Open issues for bugs or feature requests
+
+Fork the repo and submit pull requests'
