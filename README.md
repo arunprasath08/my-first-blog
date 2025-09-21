@@ -81,12 +81,17 @@ python manage.py migrate
 # Start development server
 python manage.py runserver
 
+---
 
 👉 Visit http://127.0.0.1:8000/ in your browser.
+
+---
 
 ⚡ Create an admin user (to add posts):
 
 python manage.py createsuperuser
+
+---
 
 🌟 Key Takeaways
 
@@ -98,9 +103,13 @@ Learned how to host, maintain, and scale a Python web app
 
 Created a platform to share Data Engineering knowledge with the community
 
+---
+
 👉 Visit My Blog
 
 🌐 https://arunprasath08.pythonanywhere.com/
+
+---
 
 🤝 Contributions
 
