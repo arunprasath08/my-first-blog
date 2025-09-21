@@ -51,7 +51,7 @@ Want to run this project locally?
 
 Clone the repo
 
-git clone https://github.com/<your-username>/my-first-blog.git
+git clone https://github.com/arunprasath08/my-first-blog.git
 
 cd my-first-blog
 
