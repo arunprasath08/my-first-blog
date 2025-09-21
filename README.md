@@ -84,6 +84,7 @@ python manage.py migrate
 👉 Visit http://127.0.0.1:8000/ in your browser.
 
 ---
+
 ```bash
 
 # Start development server
@@ -93,7 +94,11 @@ python manage.py runserver
 
 ⚡ Create an admin user (to add posts):
 
+```bash
+
 python manage.py createsuperuser
+
+```
 
 ---
 
