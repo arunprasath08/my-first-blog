@@ -78,6 +78,8 @@ pip install -r requirements.txt
 # Run migrations
 python manage.py migrate
 
+bash```
+
 # Start development server
 python manage.py runserver
 
